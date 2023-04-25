@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-[View My CV](https://jerrybubble.github.io/_pages/Zeyu_cv.pdf)
+[Research CV](https://jerrybubble.github.io/_pages/Zeyu_cv.pdf)
+[Resume](https://jerrybubble.github.io/_pages/Zeyu_cv_work.pdf)
 
 
 Publications
