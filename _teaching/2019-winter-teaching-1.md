@@ -1,5 +1,5 @@
 ---
-title: "Stat 311"
+title: "Stat 311: Elements of Statistical Methods"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-winter-teaching-1
